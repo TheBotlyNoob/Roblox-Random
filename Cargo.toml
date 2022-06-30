@@ -7,4 +7,5 @@ edition = "2021"
 
 [dependencies]
 rand = "0.8"
-webbrowser = "0.5"
+webbrowser = "0.7"
+dictionary2 = "1.0"

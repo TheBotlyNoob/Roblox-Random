@@ -1,6 +1,4 @@
-mod dictionary;
-
-use dictionary::DICTIONARY;
+use dictionary2::DICTIONARY;
 use rand::seq::SliceRandom;
 
 fn main() {
